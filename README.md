@@ -1,5 +1,5 @@
-# Magic Cherry Pies
-A collction of my Kando menu themes.
+# Magic Cherry Pie
+A collction of my **Kando** menu themes.
 Kando is a powerful marking menu app.
 
 ---
