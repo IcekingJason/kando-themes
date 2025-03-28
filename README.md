@@ -14,3 +14,7 @@ In the future, I will create and list more themes at here.
 A galaxy ring theme inspired by star trails and some works of art,   
 which I creatively modified based on several existing theme presets from Kando for learning purposes.
 
+[Get it here](https://github.com/IcekingJason/kando-themes/tree/main/Galaxy%20Rings)
+
+![Galaxy Rings Theme Preview](Galaxy Rings/preview.jpg)
+
