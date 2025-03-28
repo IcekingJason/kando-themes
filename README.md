@@ -27,3 +27,9 @@ which I creatively modified based on several existing theme presets from Kando f
 
 How to install themes: [Official Document](https://kando.menu/menu-themes/)
 
+
+---
+#### ⚖️License⚖️
+
+This project is dedicated to the public domain under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
